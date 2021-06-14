@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://sharp-hugle-6582a7.netlify.app/](https://sharp-hugle-6582a7.netlify.app/)
-- Live Site URL: [https://www.frontendmentor.io/solutions/3column-preview-card-component-0zw6md9kA](https://www.frontendmentor.io/solutions/3column-preview-card-component-0zw6md9kA)
+- Solution URL: [https://www.frontendmentor.io/solutions/3column-preview-card-component-0zw6md9kA](https://www.frontendmentor.io/solutions/3column-preview-card-component-0zw6md9kA)
+- Live Site URL: [https://sharp-hugle-6582a7.netlify.app/](https://sharp-hugle-6582a7.netlify.app/)
 
 ## My process
 
