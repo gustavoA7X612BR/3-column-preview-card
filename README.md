@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f222deaa-6157-4151-a4c6-214544fb396b/deploy-status)](https://app.netlify.com/sites/sharp-hugle-6582a7/deploys)
+
 # Frontend Mentor - 3-column preview card component solution
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -11,8 +13,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f222deaa-6157-4151-a4c6-214544fb396b/deploy-status)](https://app.netlify.com/sites/sharp-hugle-6582a7/deploys)
 
 ## Overview
 
