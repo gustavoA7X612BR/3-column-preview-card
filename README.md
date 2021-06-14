@@ -12,6 +12,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Built with](#built-with)
 - [Author](#author)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f222deaa-6157-4151-a4c6-214544fb396b/deploy-status)](https://app.netlify.com/sites/sharp-hugle-6582a7/deploys)
+
 ## Overview
 
 ### The challenge
@@ -31,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://sharp-hugle-6582a7.netlify.app/](https://sharp-hugle-6582a7.netlify.app/)
+- Live Site URL: [https://www.frontendmentor.io/solutions/3column-preview-card-component-0zw6md9kA](https://www.frontendmentor.io/solutions/3column-preview-card-component-0zw6md9kA)
 
 ## My process
 
